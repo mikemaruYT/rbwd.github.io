@@ -10,5 +10,5 @@ body{
     display: flex;
     z-index: 999999;
     border-radius: 0 0 2vb 2vb;
-    border: 1px rgb(0, 174, 255) solid;
+    border-bottom: 1px rgb(0, 174, 255) solid;
 }
